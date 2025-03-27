@@ -1,0 +1,38 @@
+h1 {
+border-style: solid;
+font-size: 50px;
+text-align: center;
+outline: black;
+background-color: gray;
+width: width;
+height: 100px;
+margin: 10px;
+padding: 10px;
+}
+#leftside {
+font-size: 30px;
+text-align: left;
+}
+.thumbsup {
+    display: flex;
+    flex: 1;
+    width: 150px;
+    height: 230px;
+    padding: 25px;
+}
+.sidebar {
+    border-style: solid;
+    outline: black;
+    background: gray;
+    display: flex;
+    flex: 0.5;
+    text-align: right;
+    width: 100px;
+    height: 500px;
+}
+.holder {
+    display: flex;
+}
+.captions {
+    text-align: center;
+}
